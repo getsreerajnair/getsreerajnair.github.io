@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42b9acda.chunk.css",
+    "main.js": "/static/js/main.d67b6095.chunk.js",
+    "main.js.map": "/static/js/main.d67b6095.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.2b615656.js",
+    "runtime~main.js.map": "/static/js/runtime~main.2b615656.js.map",
+    "static/js/2.9c4c4d77.chunk.js": "/static/js/2.9c4c4d77.chunk.js",
+    "static/js/2.9c4c4d77.chunk.js.map": "/static/js/2.9c4c4d77.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c242804637e49a67c07f21211576fe52.js": "/precache-manifest.c242804637e49a67c07f21211576fe52.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.42b9acda.chunk.css.map": "/static/css/main.42b9acda.chunk.css.map",
+    "static/media/App.css": "/static/media/sreerajnair.0db4b70c.jpg"
+  }
+}
